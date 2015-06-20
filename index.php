@@ -23,7 +23,7 @@ alertify.set({ labels: {
     cancel : "拒絕"
 } });
 // button labels will be "Accept" and "Deny"
-alertify.alert('<font color="red">【聲明】<br>在歌曲名稱下方都會附上音樂來源網址，絕無侵權行為。</font><br>.', function (e) {  
+alertify.alert('<font color="red">【聲明】<br>在歌曲名稱下方都會附上音樂來源網址，絕無侵權行為。</font><br><br><font color="#0066FF">GitHub：</font><a href="https://github.com/GoneTone/reh.tw-mcmusic" target="_blank"><font color="#FF5511">https://github.com/GoneTone/reh.tw-mcmusic</font></a><br>.', function (e) {  
   if (e) {  
     alertify.success('開始享受 Minecraft 音樂吧^^');  
   } else {  
@@ -43,6 +43,7 @@ document.getElementsByTagName("head")[0].appendChild(s);
 <h1><font color="#ffffff">Minecraft 音樂平台</font></h1>
 <p><font color="#FF0000">聲明：在歌曲名稱下方都會附上音樂來源網址，絕無侵權行為。<br>
 最後更新時間：2015/06/16，歌曲慢慢新增中～</font></p>
+<p><font color="#33FFFF">GitHub：</font><a href="https://github.com/GoneTone/reh.tw-mcmusic" target="_blank"><font color="#00FF00">https://github.com/GoneTone/reh.tw-mcmusic</font></a></p>
 <p><font color="#FFFF33">分享本網站給您的朋友吧^^</font></p>
 <a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=http%3A%2F%2Fmcmusic.reh.tw%2F&pubid=ra-557c114a390b18d3&ct=1&title=Minecraft%20%E9%9F%B3%E6%A8%82%E5%B9%B3%E5%8F%B0%20-%20REH.TW&pco=tbxnj-1.0" target="_blank"><img src="facebook.png" border="0" alt="Facebook"/></a>
 <a href="https://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?url=http%3A%2F%2Fmcmusic.reh.tw%2F&pubid=ra-557c114a390b18d3&ct=1&title=Minecraft%20%E9%9F%B3%E6%A8%82%E5%B9%B3%E5%8F%B0%20-%20REH.TW&pco=tbxnj-1.0" target="_blank"><img src="google_plusone_share.png" border="0" alt="Google+"/></a>
