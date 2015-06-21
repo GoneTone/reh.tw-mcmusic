@@ -1,5 +1,5 @@
-Minecraft 音樂平台
-http://mcmusic.reh.tw/
+# Minecraft 音樂平台
+網址：http://mcmusic.reh.tw/
 
 這是一個 Minecraft 原創、改編音樂的平台，讓喜愛 Minecraft 的朋友們可以享受 Minecraft 音樂的魅力。
 
