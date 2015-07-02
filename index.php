@@ -232,6 +232,28 @@ document.getElementsByTagName("head")[0].appendChild(s);
 	<a href="#" onclick="window.open(' musicplayer.php ', 'Minecraft 音樂平台 (音樂播放器語法)', config='height=700,width=700');"><font color="#FFFF33">獲取音樂播放器語法</font></a>
 	
 <br><br>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-3794226192931198";
+    google_ad_slot = "6101013865";
+    google_ad_width = 320;
+    google_ad_height = 100;
+</script>
+<!-- 大型行動橫幅廣告 -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-3794226192931198";
+    google_ad_slot = "6101013865";
+    google_ad_width = 320;
+    google_ad_height = 100;
+</script>
+<!-- 大型行動橫幅廣告 -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br><br>
 	
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
