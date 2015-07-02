@@ -50,6 +50,15 @@ document.getElementsByTagName("head")[0].appendChild(s);
 <a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=http%3A%2F%2Fmcmusic.reh.tw%2F&pubid=ra-557c114a390b18d3&ct=1&title=Minecraft%20%E9%9F%B3%E6%A8%82%E5%B9%B3%E5%8F%B0%20-%20REH.TW&pco=tbxnj-1.0" target="_blank"><img src="twitter.png" border="0" alt="Twitter"/></a>
 <a href="https://www.addthis.com/bookmark.php?source=tbx32nj-1.0&v=300&url=http%3A%2F%2Fmcmusic.reh.tw%2F&pubid=ra-557c114a390b18d3&ct=1&title=Minecraft%20%E9%9F%B3%E6%A8%82%E5%B9%B3%E5%8F%B0%20-%20REH.TW&pco=tbxnj-1.0" target="_blank"><img src="addthis.png" border="0" alt="Addthis"/></a>
 
+<br>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="VB5NCRE252CGE">
+<input type="image" src="https://www.paypal.com/zh_HK/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal － 更安全、更簡單的線上付款方式！">
+<img alt="" border="0" src="https://www.paypalobjects.com/zh_TW/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
     <div id="amazingaudioplayer-1" style="display:block;position:relative;width:100%;height:auto;margin:0px auto 0px;">
         <ul class="amazingaudioplayer-audios" style="display:none;">
             <li data-artist="https://youtu.be/4K6vT3xVUMI" data-title="苦力怕 - Creeper" data-album="" data-info="" data-image="music/1.jpg" data-duration="0">
