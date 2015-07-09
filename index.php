@@ -2,6 +2,7 @@
 <head>
 <title>Minecraft 音樂平台 - REH.TW</title>
 <meta name="keywords" content="REH.TW,Minecraft,音樂,音樂平台,Minecraft 音樂平台,Minecraft 音樂" />
+<meta name="description" content="享受 Minecraft 音樂的魅力">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
